@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "uISs/zEs43rnkhqTqDDCzIsZqmDziGattjmYyPluxH4QMXSQFpylq2FJuED0fe6/0iWVCkbY62p2GvhL0OrAxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marcello.drewanz\\source\\repos\\Test\\BlazorMapper\\BlazorMapper\\BlazorMapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marcello.drewanz\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\marcello.drewanz\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\marcello.drewanz\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\marcello.drewanz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\marcello.drewanz\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\marcello.drewanz\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\marcello.drewanz\\.nuget\\packages\\mongodb.bson\\2.16.0\\mongodb.bson.2.16.0.nupkg.sha512",
+    "C:\\Users\\marcello.drewanz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
